@@ -1,0 +1,7 @@
+{
+  "name": "Vue Components",
+  "description": "Assembling Vue Components",
+  "dependencies": {
+    "vue": "2.5.21"
+  }
+}
